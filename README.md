@@ -37,7 +37,7 @@ Elimu Kwa Wote(EKW) is a non-profit educational institution whose goal is to edu
 
 2. A box plot showing the average movie runtime in the drama genre.
 
-![Drama Average Movie Runtime](runtime_minutes_box_plot.png)
+![Drama Average Movie Runtime](drama_runtime_minutes_box_plot.png)
 
 ##### Source : IMDB
 
