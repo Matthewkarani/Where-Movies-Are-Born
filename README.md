@@ -1,4 +1,4 @@
-![Alt text](i_can_only_imagina.png)
+![Alt text](i_can_only_imagine.png)
 
 # WAIT, WE CAN MAKE MOVIES!
 
