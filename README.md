@@ -2,9 +2,8 @@
 
 # WAIT, WE CAN MAKE MOVIES!
 
-### ELIMU KWA WOTE MOVIE STUDIO
+###  ~ ELIMU KWA WOTE MOVIE STUDIO ~
 
----
 
 ## Project Overview 
 This project will use exploratory data analysis to generate insights for the Movie Director at Elimu Kwa Wote as to how they can start a new movie studio within their organization. 
@@ -16,8 +15,6 @@ Elimu Kwa Wote(EKW) is a non-profit educational institution whose goal is to edu
 
 
 ## Rearch Questions
-
-<hr>
 
 1. Determine the most popular movie genres. 
 <br>
